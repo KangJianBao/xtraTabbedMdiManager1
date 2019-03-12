@@ -1,0 +1,2 @@
+# xtraTabbedMdiManager1
+mdi
